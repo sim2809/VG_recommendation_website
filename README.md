@@ -9,6 +9,7 @@ User will be able to purchase video games or simply like the game for future dec
 
 
     Technologies that will be used in the project 
+
 * Django
 * Postgresql 
-* Matrix Factorization algorithm
+* Matrix Factorization
