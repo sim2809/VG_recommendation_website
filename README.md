@@ -1,4 +1,4 @@
-**Video Game Recommendation website**
+## **Video Game Recommendation website**
 
     Vision of the project
 
