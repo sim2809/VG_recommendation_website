@@ -10,6 +10,6 @@
 
 ### Technologies that will be used in the project 
 
-* Django
-* Postgresql 
+* Node js
+* MySql 
 * Matrix Factorization
